@@ -1,0 +1,15 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "pj-test5-devtgcger-orch-dev",
+  "defaultLocation": "EU",
+  "vars": {
+    "executionSetting": "dev",
+    "base_pj_orch": "pj-test5-devtgcger-orch",
+    "base_pj_lz": "pj-test5-devtgcger-lz",
+    "base_pj_raw": "pj-test5-devtgcger-raw",
+    "base_pj_dwh": "pj-test5-devtgcger-dwh",
+    "base_pj_dm": "pj-test5-devtgcger-dm"
+  }
+}
